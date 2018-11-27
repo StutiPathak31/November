@@ -1,0 +1,7 @@
+alisa,21,female,denmark
+zen,20,female,anatolia
+rihaan,22,male,antolia
+gizem,21,female,ankara
+gulsah,21,female,ankara
+zinnah,25,male,denmark
+rimaan,20,male,ankara
